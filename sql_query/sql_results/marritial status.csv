@@ -1,0 +1,13 @@
+"Marital Status","Education Level",patient_count,pct_total
+Single,"Some College",139,9.27
+Married,"Some College",134,8.93
+Single,"Graduate Degree",131,8.73
+Married,"High School",125,8.33
+Married,"College Degree",124,8.27
+Married,"Graduate Degree",124,8.27
+Single,"College Degree",123,8.20
+Divorced,"Some College",121,8.07
+Divorced,"Graduate Degree",121,8.07
+Divorced,"High School",121,8.07
+Divorced,"College Degree",119,7.93
+Single,"High School",118,7.87
